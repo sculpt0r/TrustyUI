@@ -3,6 +3,8 @@
 
 Trusty UI: restores trust in your UI.
 
+![trustyUI](https://github.com/sculpt0r/TrustyUI/assets/6498567/9f102426-e928-424d-acc3-df62e99d58db)
+
 Any UI prefab renderable under Canvas can be previewed along with its states. No need to pass to certain gamestate to preview UI.
 
 States are listed based on public methods on prafab component. That approach enforce best practices in OOP.
